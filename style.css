@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    font-family: Verdana;
+    font-size: 35px;
+    text-align: center;
+    text-decoration:underline;
+}
+#main{
+    margin-top: 4em;
+}
